@@ -1,0 +1,24 @@
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.dll
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.pdb
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.dll
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.xml
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.AssemblyReference.cache
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.frmFeatureClasses.resources
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.GenerateResource.cache
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CoreCompileInputs.cache
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CopyComplete
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.dll
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.pdb
+G:\03 SEMESTER 2\Praktikum Pemrograman Geospasial Desktop\Acara 1\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.esriAddIn
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\bin\Debug\WorkingWithFeatureClasses.dll
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\bin\Debug\WorkingWithFeatureClasses.pdb
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\bin\Debug\ESRI.ArcGIS.Editor.dll
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\bin\Debug\ESRI.ArcGIS.Editor.xml
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.frmFeatureClasses.resources
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.csproj.GenerateResource.cache
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.csproj.CopyComplete
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.dll
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\obj\Debug\WorkingWithFeatureClasses.pdb
+C:\Users\USER\Documents\UGM Praktikum\PG\Acara 1 - PG\wwww\WorkingWithFeatureClasses - Copy (4)\bin\Debug\WorkingWithFeatureClasses.esriAddIn
